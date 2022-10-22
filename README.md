@@ -1,1 +1,1 @@
-# RealTimeSudukoSolver
+# suduko_solver
